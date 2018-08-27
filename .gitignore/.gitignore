@@ -1,0 +1,5 @@
+package.xml
+installedPackages/*
+classes/copado__*
+triggers/copado__*
+pages/copado__*
